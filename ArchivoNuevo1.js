@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* AGREGANDO COMENTARIO INUTIL */
 
 
@@ -7,3 +8,13 @@
 
 
 /*XD LINEA 9*/
+=======
+
+/*AGREGANDO COMENTARIO LINEA 2*/
+
+
+
+
+
+/*XD LINEA 8*/
+>>>>>>> d4276f225fcf4d0ea1a1239fdcea9436a4d3f1f9
